@@ -26,4 +26,4 @@
   <br />
   ![](https://github-readme-streak-stats.herokuapp.com/?user=KobQ&theme=dark&hide_border=false)
   <br />
-</div>;
+</div>
