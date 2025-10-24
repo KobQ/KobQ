@@ -3,6 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=KobQ" alt="KobQ" />
   <h2>📫 Social Media</h2>
   <b>Email:</b> <a href="mailto:hello@kobq.eu">hello@kobq.eu</a>
+  <br />
   <b>Discord:</b> KobQ
   <h2>⚒ Tech Stack</h2>
   
