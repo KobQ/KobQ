@@ -2,7 +2,7 @@
   <h1> Hey, i'm KobQ! 👋 </h1>
   <img src="https://komarev.com/ghpvc/?username=KobQ" alt="KobQ" />
   <h2>📫 Social Media</h2>
-  <b>Email:</b> <a href="mailto:hello@dkcode.eu">hello@kobq.pl</a>
+  <b>Email:</b> <a href="mailto:hello@dkcode.eu">hello@kobq.eu</a>
   <h2>⚒ Tech Stack</h2>
   
   ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
